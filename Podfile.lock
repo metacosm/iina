@@ -1,15 +1,18 @@
 PODS:
   - Just (0.5.7)
   - MASPreferences (1.1.4)
+  - Sparkle (1.16.0)
 
 DEPENDENCIES:
   - Just
   - MASPreferences
+  - Sparkle
 
 SPEC CHECKSUMS:
   Just: d19e769d86b965e39ae58cb3c0cbad07706634a8
   MASPreferences: 7bdcfe891d7840453cf48f95fa866c3e152ace7a
+  Sparkle: 57650c525b8922b1ef72021f9d92287fc7d5d6f0
 
-PODFILE CHECKSUM: 1660afcf8e29f4d915d2c02e6adc97cd9068a0dd
+PODFILE CHECKSUM: 4ac6800f0b67a208c14462a5121812b6736b4f8e
 
 COCOAPODS: 1.2.0
